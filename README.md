@@ -1,4 +1,4 @@
-# WiFi QS
+# WiFi QSq
 
 Google has removed *Wi-Fi* from QS in Android 12 replacing it with useless *Internet* button
 This tiny project brings it back
